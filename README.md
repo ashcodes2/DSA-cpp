@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ashcodes2/Leetcode-/tree/master/0704-binary-search) |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
