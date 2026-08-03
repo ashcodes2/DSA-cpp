@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ashcodes2/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ashcodes2/Leetcode-/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/ashcodes2/Leetcode-/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
@@ -14,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashcodes2/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ashcodes2/Leetcode-/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ashcodes2/Leetcode-/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/ashcodes2/Leetcode-/tree/master/0658-find-k-closest-elements) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashcodes2/Leetcode-/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
