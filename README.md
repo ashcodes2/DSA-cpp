@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ashcodes2/Leetcode-/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/ashcodes2/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ashcodes2/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ashcodes2/Leetcode-/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/ashcodes2/Leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ashcodes2/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ashcodes2/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
