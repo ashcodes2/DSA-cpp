@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/ashcodes2/Leetcode-/tree/master/0457-circular-array-loop) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashcodes2/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
