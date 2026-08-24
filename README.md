@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashcodes2/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/ashcodes2/Leetcode-/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/ashcodes2/Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ashcodes2/Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ashcodes2/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ashcodes2/Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ashcodes2/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ashcodes2/Leetcode-/tree/master/0509-fibonacci-number) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/ashcodes2/Leetcode-/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
