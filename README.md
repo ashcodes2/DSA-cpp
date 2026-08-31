@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/ashcodes2/Leetcode-/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ashcodes2/Leetcode-/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashcodes2/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ashcodes2/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ashcodes2/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashcodes2/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashcodes2/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ashcodes2/Leetcode-/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ashcodes2/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ashcodes2/Leetcode-/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ashcodes2/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
