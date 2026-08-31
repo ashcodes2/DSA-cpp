@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashcodes2/Leetcode-/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/ashcodes2/Leetcode-/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashcodes2/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashcodes2/Leetcode-/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/ashcodes2/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ashcodes2/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashcodes2/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashcodes2/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashcodes2/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashcodes2/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
