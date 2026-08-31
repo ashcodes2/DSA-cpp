@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ashcodes2/Leetcode-/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/ashcodes2/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashcodes2/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashcodes2/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/ashcodes2/Leetcode-/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/ashcodes2/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ashcodes2/Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ashcodes2/Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ashcodes2/Leetcode-/tree/master/0383-ransom-note) |
