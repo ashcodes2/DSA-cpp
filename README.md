@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/ashcodes2/Leetcode-/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/ashcodes2/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ashcodes2/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ashcodes2/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/ashcodes2/Leetcode-/tree/master/0704-binary-search) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ashcodes2/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/ashcodes2/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ashcodes2/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ashcodes2/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 ## Floyd's Cycle Finding Algorithm
