@@ -1,39 +1,37 @@
 #include <string>
 #include <vector>
+#include <unordered_map>
+
+using namespace std;
 
 class Solution {
 public:
-    bool checkInclusion(std::string s1, std::string s2) {
-        int n1 = s1.length();
-        int n2 = s2.length();
-        
-        // If s1 is longer than s2, s2 cannot contain a permutation of s1
-        if (n1 > n2) return false;
-        
-        // Frequency arrays for lowercase English letters
-        std::vector<int> s1_count(26, 0);
-        std::vector<int> s2_count(26, 0);
-        
-        // Populate the frequency for s1 and the first window of s2
-        for (int i = 0; i < n1; i++) {
-            s1_count[s1[i] - 'a']++;
-            s2_count[s2[i] - 'a']++;
+    bool checkInclusion(string s1, string s2) {
+        if (s1.size() > s2.size()) return false;
+
+        unordered_map<char, int> mp1, mp2;
+        for (int i = 0; i < s1.size(); i++) {
+            mp1[s1[i]]++;
         }
-        
-        // If the initial windows match, we found a permutation
-        if (s1_count == s2_count) return true;
-        
-        // Slide the window across s2
-        for (int i = n1; i < n2; i++) {
-            // Add the new character entering the window
-            s2_count[s2[i] - 'a']++;
-            // Remove the old character leaving the window
-            s2_count[s2[i - n1] - 'a']--;
-            
-            // Check if the current window matches s1's frequency
-            if (s1_count == s2_count) return true;
+
+        int left = 0;
+        for (int right = 0; right < s2.size(); right++) {
+            mp2[s2[right]]++;
+
+            while (right - left + 1 > s1.size()) {
+                mp2[s2[left]]--;
+                if (mp2[s2[left]] == 0) {
+                    mp2.erase(s2[left]);
+                }
+                left++;
+            }
+
+       
+            if (mp1 == mp2) {
+                return true;
+            }
         }
-        
+
         return false;
     }
 };
