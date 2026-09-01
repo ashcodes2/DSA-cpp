@@ -1,29 +1,32 @@
-#include <string>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        vector<int> count(26, 0);
+
+        unordered_map<char, int> mp;
+
         int left = 0;
         int maxFreq = 0;
-        int maxLength = 0;
+        int ans = 0;
 
-        for (int right = 0; right < s.length(); right++) {
-            count[s[right] - 'A']++;
-            maxFreq = max(maxFreq, count[s[right] - 'A']);
+        for(int right = 0; right < s.size(); right++) {
 
-            while ((right - left + 1) - maxFreq > k) {
-                count[s[left] - 'A']--;
+            // Frequency increase
+            mp[s[right]]++;
+
+            // Maximum frequency in current window
+            maxFreq = max(maxFreq, mp[s[right]]);
+
+            // Window invalid
+            while((right - left + 1) - maxFreq > k) {
+
+                mp[s[left]]--;
                 left++;
             }
 
-            maxLength = max(maxLength, right - left + 1);
+            // Valid window
+            ans = max(ans, right - left + 1);
         }
 
-        return maxLength;
+        return ans;
     }
 };
