@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashcodes2/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashcodes2/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashcodes2/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ashcodes2/Leetcode-/tree/master/0061-rotate-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashcodes2/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashcodes2/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/ashcodes2/Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/0206-reverse-linked-list) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashcodes2/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/ashcodes2/Leetcode-/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ashcodes2/Leetcode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ashcodes2/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
