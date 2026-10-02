@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashcodes2/Leetcode-/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ashcodes2/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ashcodes2/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ashcodes2/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashcodes2/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashcodes2/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashcodes2/Leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashcodes2/Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ashcodes2/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ashcodes2/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashcodes2/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ashcodes2/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashcodes2/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashcodes2/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashcodes2/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
