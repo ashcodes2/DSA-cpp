@@ -11,23 +11,30 @@
  */
 class Solution {
 public:
-    
-    TreeNode* searchBST(TreeNode* root, int val) {
-        if(root==NULL){
-            return NULL;
-        }
-        if(root->val==val){
-            
-            return root;
-        }
-        if(val>root->val){
-           return searchBST(root->right,val);
-        }
-        if(val<root->val){
-            return searchBST(root->left,val);
-        }
-
-        return NULL;
-        
+    TreeNode* ans=NULL;
+void fun(TreeNode* root,int val){
+    if(root==NULL){
+        return;
     }
+
+    if(root->val==val){
+       ans=root;
+       return;
+    }
+
+    if(root->val<val){
+        fun(root->right,val);
+    }
+    else{
+        fun(root->left,val);
+    }
+    return;
+     
+}
+    TreeNode* searchBST(TreeNode* root, int val) {
+       fun(root,val);
+       return ans;
+
+        
+    };
 };
