@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ashcodes2/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashcodes2/Leetcode-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ashcodes2/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ashcodes2/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashcodes2/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashcodes2/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ashcodes2/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ashcodes2/Leetcode-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ashcodes2/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ashcodes2/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
