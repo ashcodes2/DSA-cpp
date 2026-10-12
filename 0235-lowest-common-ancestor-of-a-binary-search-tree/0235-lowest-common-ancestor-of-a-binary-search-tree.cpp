@@ -4,19 +4,17 @@ public:
         if(root == NULL){
             return NULL;
         }
-
-        if(root->val == p->val || root->val == q->val){
+        if(root->val==p->val || root->val==q->val){
             return root;
         }
+        if(root->val>q->val && root->val>p->val){
+           return lowestCommonAncestor(root->left,p,q);
+            }
 
-        if(root->val > p->val && root->val > q->val){
-            return lowestCommonAncestor(root->left, p, q);
-        }
-
-        if(root->val < p->val && root->val < q->val){
-            return lowestCommonAncestor(root->right, p, q);
+        if(root->val<q->val && root->val<p->val){
+            return lowestCommonAncestor(root->right,p,q);
         }
 
         return root;
-    }
-};                     
+}; 
+};                    
