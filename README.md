@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashcodes2/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/ashcodes2/Leetcode-/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ashcodes2/Leetcode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ashcodes2/Leetcode-/tree/master/0973-k-closest-points-to-origin) |
@@ -471,10 +472,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/ashcodes2/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ashcodes2/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ashcodes2/Leetcode-/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
