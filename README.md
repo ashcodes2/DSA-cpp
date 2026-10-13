@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashcodes2/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/ashcodes2/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashcodes2/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1920-build-array-from-permutation](https://github.com/ashcodes2/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ashcodes2/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ashcodes2/Leetcode-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
@@ -469,5 +470,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/ashcodes2/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ashcodes2/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
