@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ashcodes2/Leetcode-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ashcodes2/Leetcode-/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ashcodes2/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ashcodes2/Leetcode-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ashcodes2/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ashcodes2/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ashcodes2/Leetcode-/tree/master/0136-single-number) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ashcodes2/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashcodes2/Leetcode-/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ashcodes2/Leetcode-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ashcodes2/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ashcodes2/Leetcode-/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ashcodes2/Leetcode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ashcodes2/Leetcode-/tree/master/0136-single-number) |
 ## Number Theory
 |  |
